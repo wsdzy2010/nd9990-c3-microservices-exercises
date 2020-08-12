@@ -8,4 +8,5 @@ export AWS_BUCKET=project-195477632629-dev
 export AWS_REGION=us-east-2c
 export AWS_PROFILE=default
 export JWT_SECRET=hello
-export URL=http://localhost:8100
+export USERURL=http://localhost:8100
+export FEEDURL=http://localhost:8101
